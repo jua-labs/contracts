@@ -1,0 +1,6 @@
+[submodule "icp"]
+	path = icp
+	url = git@github.com:jua-labs/bitcoin-canister.git
+[submodule "evm"]
+	path = evm
+	url = git@github.com:jua-labs/p2p-contracts.git
